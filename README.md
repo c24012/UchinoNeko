@@ -47,8 +47,7 @@ Unity 2022.3.24f1
 ### 制作期間
 ３か月
 
-## プレイ動画＆スクリーンショット  
-![プレイ動画](./movie/UchinoNeko_introductionMovie.mp4)
+## スクリーンショット  
 ![タイトル画面](./ScreenShot/title_1.png)  
 ![プレイ画面](./ScreenShot/gameScnen_3.png)  
 ![リザルト画面](./ScreenShot/result.png)
