@@ -22,8 +22,14 @@
 Unity 2022.3.24f1
 
 ## 担当ブログラム 
-### ファイル一覧
+### こだわったスクリプト
 * [ねこ疑似AI](./ProjectData/Assets/2_MainScene/Scripts/Cat/CatAi.cs)
+* [ねこの動き](./ProjectData/Assets/2_MainScene/Scripts/Cat/CatMove.cs)
+* [ねこじゃらしの動き(形)を検知](./ProjectData/Assets/2_MainScene/Scripts/CatPlay/CatPlayMove.cs)
+  
+### 担当スクリプト一覧
+* [TitleScene全般](./ProjectData/Assets/1_TitleScene/Scripts)
+* [MainScene全般](./ProjectData/Assets/2_MainScene/Scripts)
 
 ### 苦労・工夫
 ねこちゃんにプログラムで動いているという感覚になってほしくなかったため、  
@@ -41,7 +47,8 @@ Unity 2022.3.24f1
 ### 制作期間
 ３か月
 
-## ゲームスクリーンショット  
+## プレイ動画＆スクリーンショット  
+![プレイ動画](./movie/UchinoNeko_introductionMovie.mp4)
 ![タイトル画面](./ScreenShot/title_1.png)  
 ![プレイ画面](./ScreenShot/gameScnen_3.png)  
 ![リザルト画面](./ScreenShot/result.png)
